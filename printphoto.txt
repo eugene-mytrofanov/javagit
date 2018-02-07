@@ -9,3 +9,4 @@ public void printPhoto (int width, int height, boolean inColor) {
 }	
 // Function call
 printPhoto(10, 20, false);
+// New comment for git
